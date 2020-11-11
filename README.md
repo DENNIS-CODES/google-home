@@ -1,4 +1,4 @@
-# google-home
+# Google-Home
 This is a clone of Google home page
 this was a challenge ment to solidify html and CSS knowlegde
 
