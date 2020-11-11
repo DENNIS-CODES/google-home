@@ -10,7 +10,7 @@ this was a challenge ment to solidify html and CSS knowlegde
 [Google Home](https://www.google.com)
 
 # live Demo
-[live demo](https://google-home.denniscodes.repl.co)
+[live demo](https://DENNIS-CODES.github.io/google-home/)
 
 # 👤 AUTHOR
 
